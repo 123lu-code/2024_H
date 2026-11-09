@@ -1,0 +1,6 @@
+../Core/Src/motor.c:14:6:Motor_SetPWM	16	static
+../Core/Src/motor.c:24:6:Qian_Jin	16	static
+../Core/Src/motor.c:36:6:Dao_Che	16	static
+../Core/Src/motor.c:47:6:Ting_Che	8	static
+../Core/Src/motor.c:60:6:Motor_SetLeft	16	static
+../Core/Src/motor.c:86:6:Motor_SetRight	16	static

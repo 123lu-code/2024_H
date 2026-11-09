@@ -1,0 +1,13 @@
+../Core/Src/daima.c:63:6:Motor_pwm	5
+../Core/Src/daima.c:269:6:jiaoduweizhisuduhuan	2
+../Core/Src/daima.c:307:6:suduhuan	1
+../Core/Src/daima.c:317:6:suduhuan_zizhuan	1
+../Core/Src/daima.c:327:6:Reset_PID	1
+../Core/Src/daima.c:334:6:weizhi	1
+../Core/Src/daima.c:342:6:Reset_All_PID	1
+../Core/Src/daima.c:349:6:Mode_1	3
+../Core/Src/daima.c:366:6:Mode_2	5
+../Core/Src/daima.c:381:6:Mode_3	3
+../Core/Src/daima.c:394:6:Mode_4	3
+../Core/Src/daima.c:409:6:Mode_5	5
+../Core/Src/daima.c:430:6:Mode_6	3

@@ -1,0 +1,3 @@
+../Core/Src/my_i2c.c:12:9:LSM6DSV_WriteReg	40	static
+../Core/Src/my_i2c.c:19:9:LSM6DSV_ReadReg	40	static
+../Core/Src/my_i2c.c:27:9:LSM6DSV_Read16Bit	40	static

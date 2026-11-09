@@ -1,0 +1,6 @@
+../Core/Src/main.c:202:5:main	8	static
+../Core/Src/main.c:269:6:SystemClock_Config	72	static
+../Core/Src/main.c:307:9:du1	4	static
+../Core/Src/main.c:313:9:du2	4	static
+../Core/Src/main.c:335:6:HAL_TIM_PeriodElapsedCallback	40	static
+../Core/Src/main.c:1057:6:Error_Handler	4	static,ignoring_inline_asm

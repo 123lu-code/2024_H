@@ -1,0 +1,6 @@
+../Core/Src/main.c:202:5:main	1
+../Core/Src/main.c:269:6:SystemClock_Config	3
+../Core/Src/main.c:307:9:du1	1
+../Core/Src/main.c:313:9:du2	1
+../Core/Src/main.c:335:6:HAL_TIM_PeriodElapsedCallback	11
+../Core/Src/main.c:1057:6:Error_Handler	1
